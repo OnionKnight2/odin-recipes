@@ -1,0 +1,40 @@
+body {
+    font-family: 'Copperplate', 'Papyrus', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: sienna;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+p {
+    text-align: justify;
+}
+
+li a {
+    font-weight: bold;
+}
+
+.description, 
+.ingredients,
+.steps {
+    font-size: 24px;
+}
+
+.description {
+    color: brown;
+}
+
+.ingredients {
+    color: crimson;
+}
+
+.steps {
+    color: darkolivegreen;
+}
